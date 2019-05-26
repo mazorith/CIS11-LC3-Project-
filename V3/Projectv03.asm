@@ -1,6 +1,6 @@
 ;CIS 11
-;LAB 4
-;Ian Harshbarger
+;Final Project
+;Brittiney Juvenal, Ian 
 ;
 ;TEST SCORE CALCULATOR
 ;
