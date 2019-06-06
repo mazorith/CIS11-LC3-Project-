@@ -2,7 +2,7 @@
 
 ## Creators: Brittiney S., Juvenal O., Ian H.
 
-Hello, This our Final Project for CIS-11. 
+Hello, This our Final Project for CIS-11. Our programs purpose it to generate useful data from tests scores from a inputed  by a user.
 
 It is a program in LC3 Assembly Languge that will ask the user to input 5 scores then dispay the max score, min score, and the letter grade equivalence of each score.
 
