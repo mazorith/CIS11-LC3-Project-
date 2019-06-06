@@ -1,5 +1,4 @@
 # CIS11-LC3-Project-
-```
 ## Creators: Brittiney S., Juvenal O., Ian H.
 
 Hello, This our Final Project for CIS-11. 
